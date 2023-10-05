@@ -1,5 +1,3 @@
-import kotlin.math.sqrt
-
 fun main() {
     val (a,b,h) = readInputData()
     tabulation(a,b,h)
